@@ -38,7 +38,7 @@ The aim is to classify whether a patient is **diabetic or non-diabetic** based o
 
 ---
 
-## ⚙️ Workflow Explanation (Code Analysis)
+##  Workflow Explanation (Code Analysis)
 
 ### 1️ Import Required Libraries
 
@@ -184,12 +184,12 @@ python mani.py
 
 ---
 
-## 🚀 Use Cases
+##  Use Cases
 
 * Healthcare data analysis
 * Diabetes risk prediction
 * Machine learning practice project
 * Academic mini / major project
 
----
+
 
